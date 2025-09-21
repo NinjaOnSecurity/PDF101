@@ -64,7 +64,7 @@ endobj
 5 0 obj
   << /Type /Action
      /S /Launch
-     /F (/Applications/Calculator.app/Contents/MacOS/Calculator)
+     /F (/System/Applications/Calculator.app/Contents/MacOS/Calculator)
   >>
 endobj
 
